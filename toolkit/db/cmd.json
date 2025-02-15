@@ -1,0 +1,301 @@
+{
+  "ai_response": 1488,
+  "total": 405,
+  "cmd": [
+    {
+      "name": "menu",
+      "use": 64,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "stats",
+      "use": 4,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "cekapikey",
+      "use": 7,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "profile",
+      "use": 23,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "freetrial",
+      "use": 4,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "bella",
+      "use": 6,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "online",
+      "use": 2,
+      "times": "08/02 23:32:08"
+    },
+    {
+      "name": "offline",
+      "use": 1,
+      "times": "08/02 23:32:08"
+    },
+    {
+      "name": "addprem",
+      "use": 3,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "addenergy",
+      "use": 7,
+      "times": "12/02 19:37:02"
+    },
+    {
+      "name": "setrole",
+      "use": 1,
+      "times": "08/02 23:32:08"
+    },
+    {
+      "name": "off",
+      "use": 6,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "japan_anime",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "s",
+      "use": 2,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "autoai",
+      "use": 2,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "on",
+      "use": 6,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "csesi",
+      "use": 21,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "backup",
+      "use": 15,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "tourl",
+      "use": 5,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "qc",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "brat",
+      "use": 27,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "bratvideo",
+      "use": 15,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "sticker",
+      "use": 3,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "smeme",
+      "use": 2,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "charge",
+      "use": 6,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "songgenerator",
+      "use": 2,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "animediff",
+      "use": 17,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "kurangenergy",
+      "use": 3,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "cas",
+      "use": 11,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "lora",
+      "use": 5,
+      "times": "11/02 14:17:49"
+    },
+    {
+      "name": "remini",
+      "use": 4,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "hidetag",
+      "use": 23,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "getchid",
+      "use": 6,
+      "times": "11/02 11:16:36"
+    },
+    {
+      "name": "toreal",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "afk",
+      "use": 11,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "jokowi",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "pin",
+      "use": 2,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "kick",
+      "use": 7,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "open",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "close",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "tagall",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "lorasearch",
+      "use": 4,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "getlora",
+      "use": 9,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "prabowo",
+      "use": 2,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "thomas_shelby",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "michi_jkt48",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "animesearch",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "play",
+      "use": 38,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "tt",
+      "use": 1,
+      "times": "08/02 23:46:13"
+    },
+    {
+      "name": "emojimix",
+      "use": 3,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "chess",
+      "use": 5,
+      "times": "11/02 14:17:49"
+    },
+    {
+      "name": "stiker",
+      "use": 1,
+      "times": "11/02 14:17:49"
+    },
+    {
+      "name": "text2img",
+      "use": 1,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "txt2img",
+      "use": 1,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "megawati",
+      "use": 1,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "linkgc",
+      "use": 1,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "add",
+      "use": 1,
+      "times": "14/02 06:34:00"
+    },
+    {
+      "name": "antilink",
+      "use": 2,
+      "times": "15/02 09:59:45"
+    },
+    {
+      "name": "claimtrial",
+      "use": 2,
+      "times": "15/02 09:59:45"
+    }
+  ]
+}

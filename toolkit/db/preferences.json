@@ -1,0 +1,91 @@
+{
+  "120363044426851281@g.us": {
+    "ai_interactive": false,
+    "mute": false,
+    "antilink": true,
+    "antibot": true,
+    "links": [
+      "wa.me",
+      "chat.whatsapp.com",
+      "whatsapp.com/channel"
+    ]
+  },
+  "6283894665879@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "6289630374084-1614514985@g.us": {
+    "ai_interactive": true
+  },
+  "120363374982756272@g.us": {
+    "ai_interactive": true,
+    "mute": false
+  },
+  "120363388684228126@newsletter": {
+    "ai_interactive": true
+  },
+  "6285777685992@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "120363378536075714@newsletter": {
+    "ai_interactive": true
+  },
+  "120363345689674469@g.us": {
+    "ai_interactive": true,
+    "playgame": false
+  },
+  "6281617967693@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "120363377740782723@g.us": {
+    "ai_interactive": true,
+    "playgame": true
+  },
+  "120363372519377986@newsletter": {
+    "ai_interactive": true
+  },
+  "120363362233410904@newsletter": {
+    "ai_interactive": true
+  },
+  "120363301254798220@newsletter": {
+    "ai_interactive": true
+  },
+  "120363026028576069@g.us": {
+    "ai_interactive": true
+  },
+  "6285255178836@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "6285876124595@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "6285693194260@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "6285701106706@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "120363330689498395@g.us": {
+    "ai_interactive": true
+  },
+  "6283812330905@s.whatsapp.net": {
+    "ai_interactive": true,
+    "chess": {}
+  },
+  "6282311272942@s.whatsapp.net": {
+    "ai_interactive": true
+  },
+  "120363304069938887@g.us": {
+    "ai_interactive": true
+  },
+  "120363356619469442@g.us": {},
+  "120363401967011360@g.us": {
+    "ai_interactive": true,
+    "antilink": true,
+    "links": [
+      "chat.whatsapp.com"
+    ]
+  },
+  "6282257000208@s.whatsapp.net": {
+    "ai_interactive": true
+  }
+}
